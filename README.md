@@ -5,4 +5,4 @@ Assignments in Deep Learning &amp; Neural Network implementations
 3. ex3.ipynb - CNN ConvNet
 4. ex4.ipynb - VGG, CIFAR-10
 5. ex5.ipynb - VGG-like, CIFAR-10 take 2 (adding improvements: faster convergence)
-6. ex6.ipynb - Transfer Learning
+6. ex6.ipynb - Transfer Learning, VGG16 + Fine tune all params
