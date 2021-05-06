@@ -6,4 +6,4 @@ Assignments in Deep Learning &amp; Neural Network implementations
 4. ex4.ipynb - VGG, CIFAR-10
 5. ex5.ipynb - VGG-like, CIFAR-10 take 2 (adding improvements: faster convergence)
 6. ex6.ipynb - Transfer Learning, VGG16 + fine tune all params
-7. ex7.ipynb - Features Visualization, cifar10's paches
+7. ex7.ipynb - Features Visualization, Vizualizing convolutional neural networks, cifar10's paches
