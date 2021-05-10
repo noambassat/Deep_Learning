@@ -8,3 +8,4 @@ Assignments in Deep Learning &amp; Neural Network implementations
 6. ex6.ipynb - Transfer Learning, VGG16 + fine tune all params
 7. ex7.ipynb - Features Visualization, Visualizing convolutional neural networks, cifar10's paches
 8. ex8.ipynb - Recurrent Neural Networks: simple RNN || LSTM --> Predicting the next word
+9. ex9.ipynb - Generative Adversarial Networks (GAN)
